@@ -24,40 +24,11 @@
 Para levantar este proyecto en tu entorno local, sigue estos pasos:
 
 ### Prerrequisitos
-- Tener [Node.js](https://nodejs.org/) instalado.
-- Tener la aplicación **Expo Go** instalada en tu dispositivo físico (iOS/Android) o contar con un emulador configurado en tu PC.
+- Tener Node.js instalado.
+- Tener la aplicación Expo Go instalada en tu dispositivo físico (iOS/Android) o contar con un emulador configurado en tu PC.
 
 ### Pasos
 
-1. **Clonar el repositorio:**
-   ```bash
-   git clone [https://github.com/juan-maria-elsener/parcial1-aplicacionesmoviles-istea.git](https://github.com/juan-maria-elsener/parcial1-aplicacionesmoviles-istea.git)
-
-2. Ingresar a la carpeta del proyecto:
-
-```Bash
-cd parcial1-aplicacionesmoviles-istea
-
-3. Instalar las dependencias necesarias:
-
-```Bash
-npm install
-
-4. Ejecutar el servidor de desarrollo:
-
-```Bash
-npx expo start -c
-(Nota: Se utiliza la flag -c para limpiar la caché de Metro Bundler y asegurar un arranque limpio, evitando falsos positivos de dependencias).
-
-5. Abrir la app:
-
-Escanea el código QR que aparece en la terminal usando la app de Expo Go (en Android).
-
-🧪 Ejecución de Tests
-El proyecto cuenta con una suite de pruebas unitarias que validan el correcto funcionamiento de las reglas de negocio y los componentes visuales. Para ejecutar los tests y verificar que todos pasen correctamente, corre el siguiente comando en la terminal:
-
-Bash
-```npm test
-
-
-Desarrollado por Juan María Elsener - ISTEA
+1. Clonar el repositorio:
+```bash
+git clone https://github.com/juan-maria-elsener/parcial1-aplicacionesmoviles-istea.git
