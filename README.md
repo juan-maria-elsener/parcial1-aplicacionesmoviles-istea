@@ -1,6 +1,13 @@
 # NoMeOlvido 📝 - App de Lista de Compras
 
 **NoMeOlvido** es una aplicación móvil desarrollada en React Native y Expo para gestionar listas de compras de manera inteligente.
+
+## 📹 Demostración en Video
+
+En el siguiente enlace se puede ver el funcionamiento completo de la aplicación, demostrando todos los puntos requeridos en la rúbrica del parcial (validaciones, persistencia, evento diferido y tests unitarios):
+
+👉 **[Ver Video de Demostración](https://youtu.be/6eMUpVnw2f8)**
+
 ## 🚀 Características Principales (Requisitos Cumplidos)
 
 1. **Autenticación y Validaciones:** Sistema de Login y Registro de usuarios con validación estricta de campos (formato de email válido, contraseñas seguras de más de 8 caracteres, validación de campos vacíos).

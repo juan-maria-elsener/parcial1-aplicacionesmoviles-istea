@@ -55,7 +55,7 @@ export default function RegisterScreen() {
               style={styles.input}
               placeholder="Contraseña (mín. 8 caracteres)"
               placeholderTextColor="#9CA3AF"
-              secureTextEntry
+              secureTextEntry={false}
               value={password}
               onChangeText={setPassword}
             />
@@ -63,7 +63,7 @@ export default function RegisterScreen() {
               style={styles.input}
               placeholder="Repetir Contraseña"
               placeholderTextColor="#9CA3AF"
-              secureTextEntry
+              secureTextEntry={false}
               value={confirmPassword}
               onChangeText={setConfirmPassword}
             />

@@ -58,7 +58,7 @@ export default function LoginScreen() {
               style={styles.input}
               placeholder="Contraseña"
               placeholderTextColor="#9CA3AF"
-              secureTextEntry
+              secureTextEntry={false}
               value={password}
               onChangeText={setPassword}
             />
