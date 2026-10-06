@@ -68,7 +68,7 @@ npm test
 ```
 **Resultados de los Tests:**
 
-![Captura de Tests Unitarios](<img width="1694" height="811" alt="image" src="https://github.com/user-attachments/assets/e187bc2f-30dd-49ec-b5e3-a4afdd094a2c" />
+(<img width="1694" height="811" alt="image" src="https://github.com/user-attachments/assets/e187bc2f-30dd-49ec-b5e3-a4afdd094a2c" />
 <img width="1498" height="308" alt="image" src="https://github.com/user-attachments/assets/21d993c9-fd40-4e75-95f0-168cc23481e5" />
 
 )
